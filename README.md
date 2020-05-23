@@ -34,3 +34,17 @@
 | 128  | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | 48.7%  | 困难 |
 | 154  | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 48.2%  | 困难 |
 
+### Week23-链表3
+
+| 题号         | 题目                                                         | 通过率 | 难度 |
+| ------------ | ------------------------------------------------------------ | ------ | ---: |
+| 83           | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 50.3%  | 简单 |
+| 面试题 02.03 | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | 82.60% | 简单 |
+| 160          | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 54.60% | 简单 |
+| 面试题18     | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | 59.1%  | 简单 |
+| 1019         | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) | 54.7%  | 中等 |
+| 24           | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 52.7%  | 中等 |
+| 142          | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 50.2%  | 中等 |
+| 143          | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | 55.9%  | 中等 |
+| 328          | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 62.4%  | 中等 |
+| 817          | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) | 57.0%  | 中等 |

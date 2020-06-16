@@ -48,3 +48,20 @@
 | 143          | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | 55.9%  | 中等 |
 | 328          | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 62.4%  | 中等 |
 | 817          | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) | 57.0%  | 中等 |
+
+
+
+## Week24-树3
+
+| 题号         | 题目                                                         | 通过率 | 难度 |
+| ------------ | ------------------------------------------------------------ | ------ | ---- |
+| 面试题 04.04 | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) | 56.0%  | 简单 |
+| 530          | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | 57.0%  | 简单 |
+| 538          | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | 61.3%  | 简单 |
+| 1022         | [从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | 62.8%  | 简单 |
+| 面试题 04.05 | [合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | 33.1%  | 中等 |
+| 面试题 04.06 | [后继者](https://leetcode-cn.com/problems/successor-lcci/)   | 56.7%  | 中等 |
+| 面试题 04.08 | [首个共同祖先](https://leetcode-cn.com/problems/first-common-ancestor-lcci/) | 68.6%  | 中等 |
+| 1026         | [节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) | 61.0%  | 中等 |
+| 1028         | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | 61.7%  | 困难 |
+| 834          | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 32.2%  | 困难 |

@@ -65,3 +65,18 @@
 | 1026         | [节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) | 61.0%  | 中等 |
 | 1028         | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | 61.7%  | 困难 |
 | 834          | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | 32.2%  | 困难 |
+
+## Week25-回溯3
+
+| 题号         | 题目                                                         | 通过率 | 难度 |
+| ------------ | ------------------------------------------------------------ | ------ | ---- |
+| 面试题 08.04 | [幂集](https://leetcode-cn.com/problems/power-set-lcci/)     | 79.1%  | 中等 |
+| 面试题 08.08 | [有重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-ii-lcci/) | 70.5%  | 中等 |
+| 216          | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | 71.1%  | 中等 |
+| 306          | [累加数](https://leetcode-cn.com/problems/additive-number/)  | 32.1%  | 中等 |
+| 357          | [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | 33.1%  | 中等 |
+| 842          | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | 36.7%  | 中等 |
+| 1079         | [活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities/) | 72.5%  | 中等 |
+| 1219         | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | 61.0%  | 中等 |
+| 面试题 08.12 | [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/) | 61.0%  | 困难 |
+| 691          | [贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/) | 44.2%  | 困难 |

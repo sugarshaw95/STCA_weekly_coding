@@ -80,3 +80,18 @@
 | 1219         | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | 61.0%  | 中等 |
 | 面试题 08.12 | [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/) | 61.0%  | 困难 |
 | 691          | [贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/) | 44.2%  | 困难 |
+
+## Week26 字符串2
+
+| 题号 | 题目                                                         | 通过率 | 难度 |
+| ---- | ------------------------------------------------------------ | ------ | ---- |
+| 58   | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 33.3%  | 简单 |
+| 415  | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  | 50.0%  | 简单 |
+| 521  | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | 68.1%  | 简单 |
+| 709  | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) | 75.6%  | 简单 |
+| 917  | [仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | 55.1%  | 简单 |
+| 468  | [验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/) | 21.8%  | 中等 |
+| 966  | [元音拼写检查器](https://leetcode-cn.com/problems/vowel-spellchecker/) | 38.1%  | 中等 |
+| 1177 | [构建回文串检测](https://leetcode-cn.com/problems/can-make-palindrome-from-substring/) | 22.2%  | 中等 |
+| 1233 | [删除子文件夹](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem/) | 44.7%  | 中等 |
+| 1096 | [花括号展开 II](https://leetcode-cn.com/problems/brace-expansion-ii/) | 50.8%  | 困难 |

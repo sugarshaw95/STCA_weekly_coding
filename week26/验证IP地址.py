@@ -1,20 +1,47 @@
 class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
-        n=len(s)
-        if n==0:
-            return 0
-        lenn=0
-        first=True
-        ss=n-1
-        while ss>=0 and s[ss]==' ':
-            ss-=1  
-        if ss==-1:
-            return 0
+    def validIPAddress(self, IP: str) -> str:
+        def check4(addr):
+            if addr=='':
+                return False
+            for c in addr:
+                if not c.isdigit():
+                    return False
+            if 0<=int(addr)<=255:
+                if len(addr)>1 and addr[0]=='0':
+                    return False
+                return True
+            return False
+        def check6(addr):
+            if len(addr)>4:
+                return False
+            for c in addr:
+                if c.isdigit():
+                    continue
+                elif c.isalpha():
+                    if not (ord('a')<=ord(c)<=ord('f') or ord('A')<=ord(c)<=ord('F')):
+                        return False
+                else:
+                    return False
+            return True
+                        
 
-        for i in range(ss,-1,-1):
-            if s[i]==' ':
-
-                return lenn
-            else:
-                lenn+=1
-        return lenn
+        if '.' in IP:
+            addrs=IP.split('.')
+            if len(addrs)!=4:
+                return 'Neither'
+            for addr in addrs:
+                if not check4(addr):
+                    return 'Neither'
+            return 'IPv4'
+        else:
+            addrs=IP.split(':')
+            #print(addrs)
+            if len(addrs)!=8:
+                return 'Neither'
+            for addr in addrs:
+                if addr=='':
+                    return 'Neither'
+                if not check6(addr):
+                    #print(addr)
+                    return 'Neither'
+            return 'IPv6' 
